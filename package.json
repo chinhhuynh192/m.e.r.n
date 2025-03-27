@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose-lean-virtuals": "^1.1.0",
+    "react-router-dom": "^7.3.0"
+  }
+}

@@ -73,6 +73,12 @@ export default function Categories({}: Props) {
   };
   const columns = [
     {
+      title: 'ID',
+      dataIndex: '_id',
+      key: '_id',
+      width: '1%',
+    },
+    {
       title: "Name",
       dataIndex: "name",
       key: "name",
